@@ -1,3 +1,4 @@
-z = "Zelalem";
 
-console.log(z);
+var names = prompt("Enter your name");
+
+console.log("Welcome", names);
